@@ -7,10 +7,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-ravirt7911-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ravirt7911@gmail.com)](mailto:ravirt7911@gmail.com)
 
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working at Hoppscotch
+- 🌱 I’m currently learning VueJS,Machine Learning
+- 💬 Ask me about FrontEnd Development,Developer Advocacy,Cloud Computing,Data Analysis,Machine Learning
+
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravirt7911&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+<br />
+
+  
+![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=ravirt7911&show_icons=true&theme=dracula&hide=stars,issues)
+</div>
 
