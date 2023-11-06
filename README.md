@@ -9,15 +9,19 @@
 - 🔭 I previously worked at Hoppscotch and CacheHo
 - 🌱 I’m currently learning VueJS, Machine Learning
 - 💬 Ask me about FrontEnd Development, Developer Advocacy, Cloud Computing, Data Analysis, Machine Learning
-
+- 📫 Reach out to me at ravirt7911@gmail.com
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravirt7911&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravirt7911&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravirt7911&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravirt7911&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravirt7911&theme=dark&hide_border=true)<br/>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravirt7911&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+</div>
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ravirt7911&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=ravirt7911&icon=3&color=11)](https://visitcount.itsvg.in)
+
 
 
