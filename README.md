@@ -13,7 +13,7 @@
 ## 📊 GitHub Stats:
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravirt7911&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haricharan0310&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravirt7911&theme=dark&hide_border=true)<br/>
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravirt7911&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 </div>
