@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@ravi__7__-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ravi__7__/)](https://instagram.com/ravi__7__)
 [![Gmail Badge](https://img.shields.io/badge/-ravirt7911-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ravirt7911@gmail.com)](mailto:ravirt7911@gmail.com)
 
-- 🔭 I previously worked at Hoppscotch and CacheHo
+- 🔭 I am currently working at ToolJet and I previously worked at Hoppscotch and CacheHo
 - 🌱 I’m currently learning VueJS, Machine Learning
 - 💬 Ask me about FrontEnd Development, Developer Advocacy, Cloud Computing, Data Analysis, Machine Learning
 - 📫 Reach out to me at ravirt7911@gmail.com
