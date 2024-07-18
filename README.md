@@ -23,6 +23,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=ravirt7911&icon=3&color=11)](https://visitcount.itsvg.in)
 
-[![Ravi's Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=ravirt7911&theme=radical&layout=compact)](https://github.com/ravirt7911/ravirt7911)
+
 
 
