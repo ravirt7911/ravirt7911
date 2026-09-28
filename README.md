@@ -19,6 +19,7 @@
 - 🤖 Previously an AI Engineer at [Lyzr](https://www.lyzr.ai/), building LLM agents and GenAI applications
 - 💬 Ask me about:
   - Vector databases & RAG (Qdrant, embeddings, semantic search)
+  - Agent building and Fine Tuning
   - LLM agents & GenAI applications
   - Cloud infra & observability (AWS, Prometheus, Grafana, Kubernetes)
   - Full-stack development
